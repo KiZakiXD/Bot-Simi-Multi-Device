@@ -6,7 +6,7 @@ RUN apt-get update && \
   chromium \
   ffmpeg \
   webp \
-  wget \
+  wget \ 
   imagemagick && \
   rm -rf /var/lib/apt/lists/*
 
