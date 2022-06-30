@@ -18,7 +18,7 @@ module.exports = zaki = async (zaki, msg, m) => {
 	    const isOwner = ownerNumber.includes(m.sender)
 	    const groupMetadata = m.isGroup ? await zaki.groupMetadata(m.chat).catch(e => {}) : ''
         const groupName = m.isGroup ? groupMetadata.subject : ''
-
+ 
         if (m.message) {
         	console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;32m CMD \x1b[1;37m]', time + ' WIB', chalk.green(budy || m.mtype), 'from', chalk.green(pushname), 'in', chalk.green(groupName ? groupName : 'Private Chat' ))
         }
