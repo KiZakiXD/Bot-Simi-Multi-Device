@@ -10,18 +10,18 @@ async function startBotol() {
     const zaki = makeWASocket({
     	logger: P({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['SimiBOT','Chrome','3.0'],
+        browser: ['Bot-Simi','Safari','1.0.0'],
         auth: state
 })
 
-console.log(color(figlet.textSync('Simi BOT', {
+console.log(color(figlet.textSync('KIZAKIXD', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
 		whitespaceBreak: false
 	}), 'cyan'))
 
-console.log(color('Connected....'))
+console.log(color('Statused.'))
 
 store.bind(zaki.ev)
     
