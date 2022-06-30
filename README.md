@@ -10,7 +10,7 @@ Thanks All Contributor.
 <p align="center">
   <a href="https://github.com/KiZakiXD"><img title="Bot-Simi Multi Device" src="https://img.shields.io/badge/Author-KiZakiXD-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://my.kizakixd.xyz/"> Author </a>
+  <a href="https://my.kizakixd.xyz/"> My Profile </a>
 </h4>
 </p>
 
