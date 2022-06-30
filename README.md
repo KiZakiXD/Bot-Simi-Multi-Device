@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co/d2hqN4D/051f190bb343.jpg" alt="Call Me Jeki" width="300" />
+<img src="https://i.ibb.co/Lh6cc8R/5cb5dab3-c2ed-4119-90bb-b9d42a41fbf1.jpg" alt="Call Me Jeki" width="300" />
 
-Elaina Istri Gweh >\\<
+Thanks All Contributor.
 
 >
 >
